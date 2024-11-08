@@ -57,5 +57,5 @@ if __name__ == "__main__":
 
     order.remove_item(item2)
 
-    print("\nAfter removing Sandwich:")
+    print("nAfter removing Sandwich:")
     print(order)
